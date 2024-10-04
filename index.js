@@ -20,7 +20,6 @@ class Heroi {
           ataque = 'ataque desconhecido';
       }
 
-      // 4. Exibir a mensagem de ataque no formato desejado
       console.log(`${this.tipo} atacou usando ${ataque}`);
   }
 }
